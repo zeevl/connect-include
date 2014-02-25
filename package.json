@@ -1,0 +1,25 @@
+{
+  "name": "connect-include",
+  "version": "0.2.1",
+  "author": "Steve Lamb <steve@stevelamb.io>",
+  "description": "Adds SSI-style include functionality to connect/grunt",
+  "main": "./lib/connect-include",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeevl/connect-include.git"
+  },
+  "keywords": [
+    "connect",
+    "shtml",
+    "ssi",
+    "include"
+  ],
+  "dependencies" : {
+    "stream-buffers" :  ">= 0.2.3",
+    "connect" :  ">= 2.7.2",
+    "underscore" : ">= 1.4.4"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
