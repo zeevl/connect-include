@@ -1,6 +1,6 @@
 {
   "name": "connect-include",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Steve Lamb <steve@stevelamb.io>",
   "description": "Adds SSI-style include functionality to connect/grunt",
   "main": "./lib/connect-include",
