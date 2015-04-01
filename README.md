@@ -1,3 +1,6 @@
+# DEPRECATED
+Try [connect-ssi](https://github.com/soenkekluth/connect-ssi/) instead!
+
 connect-include
 =============
 
